@@ -11,7 +11,7 @@ function setup() {
 
 // Draw the game
 function draw() {
-  background(220);
+  background(0);
 
   // Update and display player
   player.update();
